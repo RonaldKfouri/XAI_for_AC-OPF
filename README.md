@@ -21,8 +21,8 @@ libraries).
 
 The instructions on how to run this code are found in the following notebooks:
 
-- [Run neural network for Pg on Colab](https://colab.research.google.com/github/RonaldKfouri/XAI_for_AC-OPF/blob/main/Neural_Network_for_Pg.ipynb)
-- [Run neural network for Vg on Colab](https://colab.research.google.com/github/RonaldKfouri/XAI_for_AC-OPF/blob/main/Neural_Network_for_Vg.ipynb)
+- <a href="https://colab.research.google.com/github/RonaldKfouri/XAI_for_AC-OPF/blob/main/Neural_Network_for_Pg.ipynb" target="_blank">Run neural network for Pg on Colab</a>  
+- <a href="https://colab.research.google.com/github/RonaldKfouri/XAI_for-AC-OPF/blob/main/Neural_Network_for_Vg.ipynb" target="_blank">Run neural network for Vg on Colab</a>
 
 If you use this work in your research, please cite:
 
